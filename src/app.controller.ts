@@ -17,8 +17,6 @@ export class AppController {
 
     this.appService.create(createUserDto)
 
-
-
   }
 
 }
